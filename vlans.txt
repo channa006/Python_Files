@@ -1,0 +1,10 @@
+vlan 101
+    name Blue1
+vlan 101
+    name Blue2
+vlan 101
+    name Blue3
+vlan 101
+    name Blue4
+vlan 101
+    name Blue5
